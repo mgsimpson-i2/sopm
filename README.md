@@ -1,8 +1,8 @@
 ---
-description: An operating manual for your new manager.
+description: An ever-evolving operating manual for your new manager.
 ---
 
-# Initial page
+# Mike Simpson: Standard Operating Procedures.
 
 Content coming soon.
 
