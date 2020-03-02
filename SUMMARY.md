@@ -20,9 +20,9 @@
 
 ## My current toolkit. <a id="toolkit"></a>
 
-* [Introduction.](toolkit/more-to-come.md)
-* [General purpose tools.](toolkit/general-purpose-tools..md)
-* [Tools for communication.](toolkit/tools-for-communication..md)
-* [Tools for documentation.](toolkit/tools-for-documentation..md)
-* [Outboard storage.](toolkit/outboard-storage..md)
+* [Introduction.](toolkit/introduction.md)
+* [General purpose tools.](toolkit/general.md)
+* [Tools for communication.](toolkit/communication.md)
+* [Tools for documentation.](toolkit/documentation.md)
+* [Outboard storage.](toolkit/storage.md)
 
