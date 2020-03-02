@@ -21,8 +21,8 @@
 ## My current toolkit. <a id="toolkit"></a>
 
 * [Introduction.](toolkit/introduction.md)
+* [Base platform.](toolkit/platform.md)
 * [General purpose tools.](toolkit/general.md)
 * [Tools for communication.](toolkit/communication.md)
 * [Tools for documentation.](toolkit/documentation.md)
 * [Outboard storage.](toolkit/storage.md)
-
