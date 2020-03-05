@@ -4,7 +4,7 @@
 
 ## How I like to communicate. <a id="communication"></a>
 
-* [\(more to come\)](communication/more-to-come.md)
+* [Modes and urgency.](communication/modes.md)
 
 ## How I see people. <a id="people"></a>
 
