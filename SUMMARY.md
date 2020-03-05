@@ -5,6 +5,7 @@
 ## How I like to communicate. <a id="communication"></a>
 
 * [Modes and urgency.](communication/modes.md)
+* [Highly opinionated meetings.](communication/meetings.md)
 
 ## How I see people. <a id="people"></a>
 
