@@ -9,7 +9,10 @@
 
 ## How I see people. <a id="people"></a>
 
-* [\(more to come\)](people/more-to-come.md)
+* [Starting assumptions.](people/assumptions.md)
+* [Teams part one, the Lencioni stuff.](people/lencioni.md)
+* [Teams part two, the Weick stuff.](people/weick.md)
+* [What I can do for you.](people/cms.md)
 
 ## How I see work. <a id="work"></a>
 
