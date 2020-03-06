@@ -10,6 +10,10 @@ If you have any questions about any of this content, or if you'd like to see spe
 
 ## How I like to communicate.
 
+{% page-ref page="communication/modes.md" %}
+
+{% page-ref page="communication/meetings.md" %}
+
 ## How I see people.
 
 ## How I see work.

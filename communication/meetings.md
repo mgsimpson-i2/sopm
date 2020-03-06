@@ -21,7 +21,7 @@ Rather than filling up full-hour blocks, I like to leave a little time before an
 * "Two hour" meeting are really 105 minutes, "five after until ten before", e.g.:
   * 2:05p-3:50p
 
-There are three corollaries to this meeting timing: meetings start on time \(no reason to be late since I built slack time into the beginning\); meetings end on time \(running over defeats the purpose of adding slack time to the end\); and meetings need to run quickly and efficiently \(see below for more on that\).
+There are three corollaries to this meeting timing: meetings need to start on time \(no reason to be late since I built slack time into the beginning\); meetings need to end on time \(running over defeats the purpose of adding slack time to the end\); and meetings need to run quickly and efficiently \(see below for more on that\).
 
 ## Weird meeting scheduling.
 
@@ -46,7 +46,7 @@ Second, a **published agenda**, hopefully with specific time allocations and ide
 
 All great meetings produce one or more of the following outputs:
 
-A **consensus** around a topic: all attendees are now up to date and in agreement on whatever was talked about. Maintenance of group consensus \(many-to-many\) is one of the primary functions of meetings, and is also a good determinant of proper meeting cadence: the longer you go between consensus check-ins, the longer of a meeting you'll need to bring everyone in the group back into agreement, relative to the rate of change of whatever is being agreed upon. This is why agile teams are so fond of fifteen-minute morning stand-ups: a quick check in on status since yesterday keeps everyone pulling in the same direction, and you don't need more than fifteen minutes because things haven't had very long to drift. On the other extreme, you may only need a strategic vision check-in once every year or two, since hopefully your strategic items are broad enough and stable enough to not change on a week-to-week basis.
+A **consensus** around a topic: all attendees are now up to date and in agreement on whatever was talked about. Maintenance of group consensus \(many-to-many\) is one of the primary functions of meetings, and is also a good determinant of proper meeting cadence: the longer you go between consensus check-ins, the longer of a meeting you'll need to bring everyone in the group back into agreement, relative to the rate of change of whatever consensus is being maintained. This is why agile teams are so fond of fifteen-minute morning stand-ups: a quick check in on status since yesterday keeps everyone pulling in the same direction, and you don't need more than fifteen minutes because things haven't had very long to drift. On the other extreme, you may only need a strategic vision check-in once every year or two, since hopefully your strategic items are broad enough and stable enough to not change on a week-to-week basis.
 
 The second important output of a meeting are the **decisions** made by the participants. Decisions should be documented clearly and usually publicly: who was the driver asking for a decision to be made; who were the participants in the discussion; what specifically was decided on what date; and a follow-up date for re-examining the decision in the future. It's okay if you couldn't come to a decision at a given meeting, but then there needs to be a follow-up action specified: drop the discussion and come back to it later when things have changed, or continue discussion at a subsequent meeting. Document even these inconclusive decisions for later review.
 
