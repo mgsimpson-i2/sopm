@@ -12,7 +12,7 @@
 * [Starting assumptions.](people/assumptions.md)
 * [Teams part one, the Lencioni stuff.](people/lencioni.md)
 * [Teams part two, the Weick stuff.](people/weick.md)
-* [What I can do for you.](people/cms.md)
+* [What I can do for you.](people/specifics.md)
 
 ## How I see work. <a id="work"></a>
 
@@ -20,7 +20,8 @@
 
 ## How I see process. <a id="process"></a>
 
-* [\(more to come\)](process/more-to-come.md)
+* [The spectrum of formality.](process/formality.md)
+* [Levels of process management.](process/management.md)
 
 ## My current toolkit. <a id="toolkit"></a>
 
