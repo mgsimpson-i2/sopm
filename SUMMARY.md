@@ -31,4 +31,3 @@
 * [Tools for communication.](toolkit/communication.md)
 * [Tools for documentation.](toolkit/documentation.md)
 * [Outboard storage.](toolkit/storage.md)
-
